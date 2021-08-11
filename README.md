@@ -1,0 +1,2 @@
+# GitRebaseInDepth
+Git rebase practice
